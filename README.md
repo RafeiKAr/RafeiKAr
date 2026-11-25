@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- PROJEKTE:START (automatisch von projekt.py) -->
+## Projects
+
+| Project | Focus | Status | Goal |
+|---|---|---|---|
+| [Echtzeit-Vision-Pipeline](https://github.com/RafeiKAr/echtzeit-vision-pipeline) | Embedded Vision | ✅ | ≥ 25 Bilder/s am Laptop bei 640×480, Tabelle mit 3 Bildgrößen in der README |
+<!-- PROJEKTE:END -->
